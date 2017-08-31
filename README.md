@@ -1,0 +1,2 @@
+# SensorBasico
+Nodo sensor basico
